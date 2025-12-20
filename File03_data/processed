@@ -1,1 +1,37 @@
+# Processed Data
 
+Les données nettoyées sont stockées dans **BigQuery** et non en fichiers locaux.
+
+## Tables BigQuery
+
+### `uk-retail-europe.clean.online_retail`
+- **539,392 lignes** (2,517 lignes invalides supprimées)
+- Colonnes ajoutées:
+  - `TotalAmount` : Quantity × UnitPrice
+  - `IsReturn` : TRUE si Quantity < 0
+  - `IsB2B` : TRUE si CustomerID IS NULL
+- InvoiceDate converti en TIMESTAMP
+
+### `uk-retail-europe.mart.*`
+Tables dimension/fait (star schema):
+- `dim_geography` : 38 pays
+- `dim_customers` : 4,379 clients
+- `dim_products` : 4,177 produits
+- `fact_orders` : 539,392 transactions
+
+## Scripts de transformation
+Voir `/sql/01_data_quality/cleaning.sql` et `/sql/02_data_models/`
+
+## Export local (si nécessaire)
+Pour exporter les données nettoyées en CSV :
+```sql
+EXPORT DATA OPTIONS(
+  uri='gs://your-bucket/clean_data_*.csv',
+  format='CSV',
+  overwrite=true
+) AS
+SELECT * FROM `uk-retail-europe.clean.online_retail`;
+```
+
+⚠️ **Note**: Pas d'export local par défaut pour économiser l'espace disque.
+Les données sont accessibles via BigQuery.
