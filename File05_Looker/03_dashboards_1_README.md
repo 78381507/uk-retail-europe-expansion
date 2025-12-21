@@ -1,6 +1,6 @@
 # Looker Studio Dashboards
 
-## Dashboard 1: Executive Europe Overview
+## Dashboard 1: Executive Overview
 
 **Purpose**: High-level business performance overview for C-level executives
 
@@ -11,10 +11,10 @@
 - Identified Customers: 4.4K
 
 **Key Insights**:
-- UK dominates with 84% of revenue (£8.2M)
-- France/Belgium represent ~3% - strong growth opportunity
+- UK dominates with 84% of revenue (£8.23M)
+- France represents ~2% (£200K) - strong growth headroom vs UK baseline
 - Q4 2011 peak (£1.46M in November) - clear seasonality for inventory planning
-- Monthly revenue trend shows steady growth from Dec 2010 to Oct 2011
+- Monthly revenue shows steady growth from Dec 2010 to Oct 2011, then seasonal spike
 
 **Data Sources**: 
 - `v_revenue_monthly` (BigQuery)
@@ -26,11 +26,9 @@
 
 **Interactive Elements**:
 - Geographic map with revenue distribution
-- Horizontal bar chart ranking top countries
-- Time series with monthly data labels
-
-**Access**: [Live Dashboard Link](https://lookerstudio.google.com/your-link-here)
+- Horizontal bar chart ranking countries by revenue
+- Monthly time series with data labels
 
 **Screenshot**:
 
-![Executive Dashboard](../../assets/dashboard_screenshots/dashboard_1_executive.png)
+![Executive Overview Dashboard](../../assets/dashboard_screenshots/dashboard_1_executive_overview.png)
