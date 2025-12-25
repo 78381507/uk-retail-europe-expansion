@@ -142,5 +142,3 @@ All screenshots demonstrate end-to-end functionality:
 - Query execution
 - Filter logic
 - Slack delivery
-
-**Portfolio-ready:** Yes ✅
