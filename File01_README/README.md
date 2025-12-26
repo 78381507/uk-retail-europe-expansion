@@ -41,42 +41,62 @@ uk-retail-europe-expansion/
 │
 ├── README.md                          # This file
 │
+├── File01_README/                     # (Empty - main README at root)
+│
 ├── File02_BUSINESS_CASE/
 │   └── Business_Case.md               # Business context, ROI analysis, stakeholder requirements
 │
-├── File03_DATA/
+├── File03_data/
 │   ├── README.md                      # Dataset documentation
 │   └── raw/
 │       └── Online Retail.xlsx         # Source data (UCI ML Repository)
 │
-├── File07_Docs/
-│   ├── kpi_dictionary.md              # Comprehensive metric definitions
-│   └── setup_guide.md                 # BigQuery & Looker setup instructions
-│
-├── sql/
+├── File04_SQL/
 │   ├── 01_data_quality/               # Data validation & cleaning queries
-│   ├── 02_data_models/                # Dimensional model (dim_customers, fact_orders, etc.)
+│   │   ├── checks.sql
+│   │   └── cleaning.sql
+│   ├── 02_data_models/                # Dimensional model (customers, products, geography)
+│   │   ├── dim_customers.sql
+│   │   ├── dim_geography.sql
+│   │   ├── dim_products.sql
+│   │   └── fact_orders.sql
 │   └── 03_business_metrics/           # KPI views (revenue, retention, RFM, geographic)
+│       ├── kpi_francophone.sql
+│       ├── kpi_geographic.sql
+│       ├── kpi_retention_advanced.sql
+│       ├── kpi_revenue.sql
+│       └── kpi_rfm.sql
 │
-├── looker/
+├── File05_Looker/
 │   └── dashboards/
 │       ├── README.md                  # Dashboard documentation
 │       ├── dashboard_1_executive_overview.png
 │       ├── dashboard_2_francophone_expansion.png
 │       └── dashboard_3_retention_analysis.png
 │
-├── automation/
+├── File06_Automation/
 │   ├── README.md                      # Make.com workflow documentation
-│   ├── sql/
-│   │   ├── daily_revenue_alert.sql
-│   │   └── weekly_at_risk_export.sql
-│   └── screenshots/
-│       ├── 01_make_workflow_complete.png
-│       ├── 04_slack_message_received.png
-│       └── 07_scenario3_google_sheets.png
+│   ├── screenshots/                   # Automation workflow screenshots
+│   │   ├── 01_make_workflow_complete.png
+│   │   ├── 02_make_filter_inspector.png
+│   │   ├── 03_slack_config.png
+│   │   ├── 04_slack_message_received.png
+│   │   ├── 05_scenario3_make_workflow.png
+│   │   ├── 06_scenario3_schedule.png
+│   │   └── 07_scenario3_google_sheets.png
+│   └── sql/
+│       ├── daily_revenue_alert.sql
+│       └── weekly_at_risk_export.sql
 │
-└── assets/
-    └── dashboard_screenshots/         # High-resolution dashboard images
+├── File07_Docs/
+│   ├── kpi_dictionary.md              # Comprehensive metric definitions
+│   └── setup_guide.md                 # BigQuery & Looker setup instructions
+│
+└── File08_Assets/
+    └── dashboard_screenshot/          # Dashboard images
+        ├── dashboard_1_executive_overview.png
+        ├── dashboard_2_francophone_expansion.png
+        └── dashboard_3_retention_analysis.png
 ```
 
 ---
