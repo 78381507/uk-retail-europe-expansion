@@ -160,13 +160,13 @@ Rule: alert if |change| >= 15%
 ### **Screenshots**
 
 **Workflow (Make.com):**
-![Scenario 2 Workflow](screenshots/05_scenario2_make_workflow.png)
+![Scenario 2 Workflow](screenshots/05_scenario02_make_workflow.png)
 
 **Schedule Configuration:**
-![Monday 08:00 Trigger](screenshots/06_scenario2_schedule.png)
+![Monday 08:00 Trigger](screenshots/06_scenario02_schedule.png)
 
 **Google Sheets Output:**
-![Export Result](screenshots/07_scenario2_google_sheets.png)
+![Export Result](screenshots/07_scenario02_google_sheets.png)
 
 ---
 
