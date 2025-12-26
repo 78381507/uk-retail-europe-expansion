@@ -45,4 +45,4 @@
 ![Retention Analysis Dashboard](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File08_Assets/dashboard_screenshot/dashboard_03_retention_analysis.png)
 
 **SQL Views Created**:
-- [kpi_retention_advanced.sql](../../sql/03_business_metrics/kpi_retention_advanced.sql)
+- [kpi_retention_advanced.sql](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/03_bm_kpi_retention_advanced.sql)
