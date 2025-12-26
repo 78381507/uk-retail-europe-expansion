@@ -42,7 +42,7 @@
 4. Replicate Champion product mix in new customer onboarding
 
 **Screenshot**:
-![Retention Analysis Dashboard](../../assets/dashboard_screenshots/dashboard_3_retention_analysis.png)
+![Retention Analysis Dashboard](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File08_Assets/dashboard_screenshot/dashboard_03_retention_analysis.png)
 
 **SQL Views Created**:
 - [kpi_retention_advanced.sql](../../sql/03_business_metrics/kpi_retention_advanced.sql)
