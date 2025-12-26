@@ -29,7 +29,7 @@
 - Strategic insights highlighted in red/green for visibility
 
 **Screenshot**:
-![Francophone Expansion Dashboard](../../assets/dashboard_screenshots/dashboard_2_francophone_expansion.png)
+![Francophone Expansion Dashboard](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File08_Assets/dashboard_screenshot/dashboard_02_francophone.png)
 
 **SQL Views Created**:
 - [kpi_francophone.sql](../../sql/03_business_metrics/kpi_francophone.sql)
