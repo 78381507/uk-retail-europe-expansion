@@ -60,7 +60,7 @@ Rule: alert if |change| >= 15%
 
 ### **SQL Query**
 
-**File:** ![daily_revenue_alert.sql](sql/daily_revenue_alert.sql)
+**File:** ![daily_revenue_alert.sql](SQL/daily_revenue_alert.sql)
 
 **Logic:**
 - Compare yesterday's France revenue vs 7-day rolling average
@@ -147,7 +147,7 @@ Rule: alert if |change| >= 15%
 
 ### **SQL Query**
 
-**File:** [weekly_at_risk_export.sql](File06_Automation/SQL/weekly_at_risk_export.sql)
+**File:** [weekly_at_risk_export.sql](SQL/weekly_at_risk_export.sql)
 
 **Logic:**
 - Join RFM scores with customer dimension table
