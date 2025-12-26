@@ -31,4 +31,4 @@
 
 **Screenshot**:
 
-![Executive Overview Dashboard](../../Assets/dashboard_screenshot/dashboard_01_executive_.png)
+![Executive Overview Dashboard](../../Assets/dashboard_screenshot/dashboard_01_executive.png)
