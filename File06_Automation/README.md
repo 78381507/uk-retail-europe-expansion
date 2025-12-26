@@ -60,7 +60,7 @@ Rule: alert if |change| >= 15%
 
 ### **SQL Query**
 
-**File:** [daily_revenue_alert.sql](sql/daily_revenue_alert.sql)
+**File:** ![daily_revenue_alert.sql](sql/daily_revenue_alert.sql)
 
 **Logic:**
 - Compare yesterday's France revenue vs 7-day rolling average
