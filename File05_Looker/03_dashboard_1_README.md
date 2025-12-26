@@ -31,4 +31,4 @@
 
 **Screenshot**:
 
-![Executive](File08_Assets/dashboard_screenshot/dashboard_01_executive.png)
+![Executive](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File08_Assets/dashboard_screenshot/dashboard_01_executive.png)
