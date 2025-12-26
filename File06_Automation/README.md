@@ -147,7 +147,7 @@ Rule: alert if |change| >= 15%
 
 ### **SQL Query**
 
-**File:** [weekly_at_risk_export.sql](sql/weekly_at_risk_export.sql)
+**File:** [weekly_at_risk_export.sql](File06_Automation/SQL/weekly_at_risk_export.sql)
 
 **Logic:**
 - Join RFM scores with customer dimension table
