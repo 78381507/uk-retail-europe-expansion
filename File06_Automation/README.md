@@ -191,7 +191,7 @@ This automation directly supports insights from **Dashboard 3 - Retention Analys
 
 ## Summary
 
-### **Scenario 1 vs Scenario 3: Complementary Use Cases**
+### **Scenario 1 vs Scenario 2: Complementary Use Cases**
 
 | Aspect | Scenario 1 | Scenario 3 |
 |--------|-----------|-----------|
@@ -228,7 +228,7 @@ This automation directly supports insights from **Dashboard 3 - Retention Analys
 4. Update SQL query with your project/dataset names
 5. Test with "Run once" before scheduling
 
-### **Scenario 3 Setup**
+### **Scenario 2 Setup**
 1. Create Google Sheet with headers (CustomerID, Country, etc.)
 2. Share sheet with Make service account email
 3. Configure BigQuery connection
@@ -245,7 +245,7 @@ This automation directly supports insights from **Dashboard 3 - Retention Analys
 - Filter gates alerts correctly
 - Slack messages delivered
 
-✅ **Scenario 3 completed and validated**
+✅ **Scenario 2 completed and validated**
 - RFM query returns At Risk customers
 - Google Sheets integration functional
 - Weekly schedule configured
@@ -259,7 +259,7 @@ This automation directly supports insights from **Dashboard 3 - Retention Analys
 - Baseline comparison (same weekday, 4-week avg)
 - Slack thread replies with diagnostic queries
 
-**Scenario 3:**
+**Scenario 2:**
 - Email notification to marketing team
 - Automated follow-up (2-week check if customer reactivated)
 - A/B test tracking (which recommended action performed best)
