@@ -1,5 +1,7 @@
 # Looker Studio Dashboards
 
+---
+
 ## Dashboard 1: Executive Overview
 
 **Purpose**: High-level business performance overview for C-level executives
