@@ -95,7 +95,8 @@ uk-retail-europe-expansion/
 │
 └── File08_Assets/
     └── presentation.pdf               # PowerPoint (8 slides)
-        
+        └── UK_Retail_Portfolio_Presentation.pdf
+
 ```
 
 ---
