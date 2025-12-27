@@ -193,7 +193,7 @@ This automation directly supports insights from **Dashboard 3 - Retention Analys
 
 ### **Scenario 1 vs Scenario 2: Complementary Use Cases**
 
-| Aspect | Scenario 1 | Scenario 3 |
+| Aspect | Scenario 1 | Scenario 2 |
 |--------|-----------|-----------|
 | **Frequency** | Daily | Weekly |
 | **Type** | Reactive monitoring | Proactive action |
@@ -209,7 +209,7 @@ This automation directly supports insights from **Dashboard 3 - Retention Analys
 - **Make.com** - Workflow automation platform (Free tier: 1,000 ops/month)
 - **Google BigQuery** - Data warehouse & SQL engine
 - **Slack** - Real-time alert delivery (Scenario 1)
-- **Google Sheets** - CRM data export (Scenario 3)
+- **Google Sheets** - CRM data export (Scenario 2)
 
 ---
 
@@ -219,7 +219,7 @@ This automation directly supports insights from **Dashboard 3 - Retention Analys
 1. Make.com account (Free tier sufficient)
 2. Google Cloud project with BigQuery enabled
 3. Slack workspace with incoming webhook (Scenario 1)
-4. Google Sheets with service account access (Scenario 3)
+4. Google Sheets with service account access (Scenario 2)
 
 ### **Scenario 1 Setup**
 1. Create Slack incoming webhook
