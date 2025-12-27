@@ -331,7 +331,7 @@ https://doi.org/10.24432/C5BW33
 ## 👤 Contact
 
 **François Tilkin**  
-Data Analyst | Analytics Engineer
+Data Analyst | Analytics & Automation
 
 **LinkedIn:** [linkedin.com/in/francois-tilkin](https://linkedin.com/in/francois-tilkin)  
 **GitHub:** [github.com/78381507](https://github.com/78381507)  
