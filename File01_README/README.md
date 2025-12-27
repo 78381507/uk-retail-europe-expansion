@@ -70,11 +70,10 @@ uk-retail-europe-expansion/
 │       └── kpi_rfm.sql
 │
 ├── File05_Looker/
-│   └── dashboards/
-│       ├── README.md                  # Dashboard documentation
-│       ├── dashboard_1_executive_overview.png
-│       ├── dashboard_2_francophone_expansion.png
-│       └── dashboard_3_retention_analysis.png
+│   ├── README.md                  # Dashboard documentation
+│   ├── dashboard_1_executive_overview.png
+│   ├── dashboard_2_francophone_expansion.png
+│   └── dashboard_3_retention_analysis.png
 │
 ├── File06_Automation/
 │   ├── README.md                      # Make.com workflow documentation
