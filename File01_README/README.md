@@ -64,6 +64,7 @@ uk-retail-europe-expansion/
 │   └── 03_business_metrics/           # KPI views (revenue, retention, RFM, geographic)
 │       ├── kpi_francophone.sql
 │       ├── kpi_geographic.sql
+│       ├── kpi_retention.sql
 │       ├── kpi_retention_advanced.sql
 │       ├── kpi_revenue.sql
 │       └── kpi_rfm.sql
