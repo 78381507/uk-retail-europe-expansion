@@ -94,10 +94,8 @@ uk-retail-europe-expansion/
 │   └── setup_guide.md                 # BigQuery & Looker setup instructions
 │
 └── File08_Assets/
-    └── dashboard_screenshot/          # Dashboard images
-        ├── dashboard_1_executive_overview.png
-        ├── dashboard_2_francophone_expansion.png
-        └── dashboard_3_retention_analysis.png
+    └── presentation.pdf               # PowerPoint (8 slides)
+        
 ```
 
 ---
