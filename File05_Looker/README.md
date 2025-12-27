@@ -29,6 +29,3 @@
 - Horizontal bar chart ranking countries by revenue
 - Monthly time series with data labels
 
-**Screenshot**:
-
-![Executive](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File08_Assets/dashboard_screenshot/dashboard_01_executive.png)
