@@ -1,4 +1,4 @@
--- Table dimension Pays
+-- Table dimension geography
 CREATE OR REPLACE TABLE `uk-retail-europe.mart.dim_geography` AS
 SELECT DISTINCT
   Country,
@@ -13,7 +13,7 @@ WHERE Country IS NOT NULL;
 
 
 
--- Table dimension Clients
+-- Table dimension customers
 CREATE OR REPLACE TABLE `uk-retail-europe.mart.dim_customers` AS
 SELECT 
   CustomerID,
@@ -28,7 +28,7 @@ GROUP BY CustomerID, Country;
 
 
 
--- Table dimension Produits
+-- Table dimension products
 CREATE OR REPLACE TABLE `uk-retail-europe.mart.dim_products` AS
 SELECT 
   StockCode,
@@ -41,7 +41,7 @@ GROUP BY StockCode, Description;
 
 
 
--- Table de faits - Commandes
+-- Table de faits - orders
 CREATE OR REPLACE TABLE `uk-retail-europe.mart.fact_orders` AS
 SELECT 
   InvoiceNo,
@@ -60,37 +60,3 @@ SELECT
 FROM `uk-retail-europe.clean.online_retail`;
 
 
-
--- =============================================================================
--- FACT TABLE: Orders
--- =============================================================================
--- Description: Main fact table containing all transaction-level order data
--- Source: clean.online_retail
--- Grain: One row per order line (InvoiceNo + StockCode)
--- 
--- Usage:
---   - Dashboard 1: Executive Overview (line chart, map, KPIs)
---   - Time series analysis
---   - Geographic distribution
--- 
--- Filters applied:
---   - None (all transactions included, use IsReturn/IsB2B flags to filter)
--- =============================================================================
-
-CREATE OR REPLACE VIEW `uk-retail-europe.mart.fact_orders` AS
-SELECT 
-  InvoiceNo,
-  InvoiceDate,
-  StockCode,
-  Description,
-  Quantity,
-  UnitPrice,
-  CustomerID,
-  Country,
-  TotalAmount,
-  IsReturn,
-  IsB2B,
-  EXTRACT(YEAR FROM InvoiceDate) as Year,
-  EXTRACT(MONTH FROM InvoiceDate) as Month,
-  FORMAT_TIMESTAMP('%Y-%m', InvoiceDate) as YearMonth
-FROM `uk-retail-europe.clean.online_retail`;
