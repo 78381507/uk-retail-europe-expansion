@@ -50,7 +50,7 @@ uk-retail-europe-expansion/
 │   │    └── Online Retail.xlsx         # Source data (UCI ML Repository) 
 │   ├── README.md                      # Dataset documentation
 │   ├── processed
-│    └── schema.sql
+│   └── schema.sql
 │ 
 ├── File04_SQL/
 │   ├── 01_data_quality/               # Data validation & cleaning queries
