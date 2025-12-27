@@ -40,15 +40,18 @@ This portfolio showcases a complete data analytics workflow built on the **UCI O
 uk-retail-europe-expansion/
 │
 ├── File01_README/                     
-│
+│   └── README.md
+│ 
 ├── File02_BUSINESS_CASE/
 │   └── Business_Case.md               # Business context, ROI analysis, stakeholder requirements
 │
 ├── File03_data/
+│   ├── raw/
+│   │    └── Online Retail.xlsx         # Source data (UCI ML Repository) 
 │   ├── README.md                      # Dataset documentation
-│   └── raw/
-│       └── Online Retail.xlsx         # Source data (UCI ML Repository)
-│
+│   ├── processed
+│    └── schema.sql
+│ 
 ├── File04_SQL/
 │   ├── 01_data_quality/               # Data validation & cleaning queries
 │   │   ├── checks.sql
