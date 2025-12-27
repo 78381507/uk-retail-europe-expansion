@@ -78,13 +78,13 @@ uk-retail-europe-expansion/
 ├── File06_Automation/
 │   ├── README.md                      # Make.com workflow documentation
 │   ├── screenshots/                   # Automation workflow screenshots
-│   │   ├── 01_make_workflow_complete.png
-│   │   ├── 02_make_filter_inspector.png
-│   │   ├── 03_slack_config.png
-│   │   ├── 04_slack_message_received.png
-│   │   ├── 05_scenario3_make_workflow.png
-│   │   ├── 06_scenario3_schedule.png
-│   │   └── 07_scenario3_google_sheets.png
+│   │   ├── 01_scenario_01_make_workflow_complete.png
+│   │   ├── 02_scenario_01_make_filter_inspector.png
+│   │   ├── 03_scenario_01_slack_config.png
+│   │   ├── 04_scenario_01_slack_message_received.png
+│   │   ├── 05_scenario_02_make_workflow.png
+│   │   ├── 06_scenario_02_schedule.png
+│   │   └── 07_scenario_02_google_sheets.png
 │   └── sql/
 │       ├── daily_revenue_alert.sql
 │       └── weekly_at_risk_export.sql
