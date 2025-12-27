@@ -97,7 +97,7 @@ Rule: alert if |change| >= 15%
 
 ---
 
-## Scenario 3: Weekly At Risk Customer Export (BigQuery → Google Sheets)
+## Scenario 2: Weekly At Risk Customer Export (BigQuery → Google Sheets)
 
 ### **Workflow Overview**
 
