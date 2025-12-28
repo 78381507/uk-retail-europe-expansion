@@ -110,7 +110,7 @@
 4. Replicate Champion product mix in new customer onboarding
 
 **SQL Views Created**:
-- [kpi_retention_advanced.sql](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/03_bm_kpi_retention_advanced.sql)
+- [kpi_retention_advanced.sql](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/03_business_metrics/kpi_retention_advanced.sql)
 
 
 
