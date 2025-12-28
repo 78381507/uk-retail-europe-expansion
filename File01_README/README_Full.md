@@ -40,7 +40,9 @@ This portfolio showcases a complete data analytics workflow built on the **UCI O
 uk-retail-europe-expansion/
 │
 ├── File01_README/                     
-│   └── README.md
+│   ├── README.md
+│   ├── README_Customer.md
+│   └── README_Full.md
 │ 
 ├── File02_BUSINESS_CASE/
 │   └── Business_Case.md               # Business context, ROI analysis, stakeholder requirements
