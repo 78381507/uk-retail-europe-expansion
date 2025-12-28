@@ -18,7 +18,13 @@ Built with **BigQuery, Looker Studio, and Make.com**, this portfolio demonstrate
 
 ---
 
-**François Tilkin** — Data Analyst | Analytics & Automation
+## 👤 Contact
 
-![GitHub](https://github.com/78381507)
+**François Tilkin**  
+Data Analyst | Analytics & Automation
 
+**LinkedIn:** [linkedin.com/in/francois-tilkin](https://www.linkedin.com/in/fran%C3%A7ois-tilkin-1667b138a/)  
+**GitHub:** [github.com/78381507](https://github.com/78381507)  
+**Email:** tilkinanalytics@gmail.com
+
+---
