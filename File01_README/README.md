@@ -195,7 +195,7 @@ uk-retail-europe-expansion/
 **Output:** Slack message with date, revenue, baseline, percentage change  
 **Business Impact:** Real-time anomaly detection, <5 min response time
 
-**Documentation:** [automation/README.md](automation/README.md)
+**Documentation:** [automation/README.md](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File06_Automation/README)
 
 ---
 
