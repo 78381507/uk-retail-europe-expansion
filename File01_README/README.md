@@ -252,8 +252,8 @@ Complete definitions of all metrics used across dashboards, SQL views, and autom
 
 **Business Metrics:**
 - [Francophone KPIs](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/03_business_metrics/kpi_francophone.sql)
+- [Geographic KPIs](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/03_business_metrics/kpi_geographic.sql)
 - [Revenue KPIs](SQL/03_business_metrics/kpi_revenue.sql)
-- [Geographic KPIs](SQL/03_business_metrics/kpi_geographic.sql)
 - [Retention KPIs](SQL/03_business_metrics/kpi_retention_advanced.sql)
 - [RFM Segmentation](SQL/03_business_metrics/kpi_rfm.sql)
 
