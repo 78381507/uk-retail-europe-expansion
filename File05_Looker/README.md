@@ -64,7 +64,7 @@
 - Strategic insights highlighted in red/green for visibility
 
 **SQL Views Created**:
-- [kpi_francophone.sql](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/03_bm_kpi_francophone.sql)
+- [kpi_francophone.sql](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/03_business_metrics/kpi_francophone.sql)
 
 ---
 
