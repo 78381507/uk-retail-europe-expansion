@@ -60,7 +60,7 @@ Rule: alert if |change| >= 15%
 
 ### **SQL Query**
 
-**File:** ![daily_revenue_alert.sql](SQL/daily_revenue_alert.sql)
+**File:** ![Daily Revenue Alert](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/sql/daily_revenue_alert.sql)
 
 **Logic:**
 - Compare yesterday's France revenue vs 7-day rolling average
@@ -72,16 +72,16 @@ Rule: alert if |change| >= 15%
 ### **Screenshots**
 
 **Workflow (Make.com):**
-![Complete Workflow](screenshots/01_make_workflow_complete.png)
+![Complete Workflow](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/screenshots/01_scenario_01_make_workflow_complete.png)
 
 **Filter Inspector:**
-![Filter Condition](screenshots/02_make_filter_inspector.png)
+![Filter Condition](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/screenshots/02_scenario_01_make_filter_inspector.png)
 
 **Slack Configuration:**
-![Slack Module Setup](screenshots/03_slack_config.png)
+![Slack Module Setup](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/screenshots/03_scenario_01_slack_config.png)
 
 **Slack Message Received:**
-![Alert in Slack Channel](screenshots/04_slack_message_received.png)
+![Alert in Slack Channel](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/screenshots/04_scenario_01_slack_message_received.png)
 
 ---
 
@@ -147,7 +147,7 @@ Rule: alert if |change| >= 15%
 
 ### **SQL Query**
 
-**File:** [weekly_at_risk_export.sql](SQL/weekly_at_risk_export.sql)
+**File:** [Weekly_at_Risk_Export](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/sql/weekly_at_risk_export.sql)
 
 **Logic:**
 - Join RFM scores with customer dimension table
@@ -160,13 +160,13 @@ Rule: alert if |change| >= 15%
 ### **Screenshots**
 
 **Workflow (Make.com):**
-![Scenario 02_MakeFlow](screenshots/05_scenario02_makeflow.png)
+![Scenario 02_MakeFlow](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/screenshots/05_scenario_02_makeflow.png)
 
 **Schedule Configuration:**
-![Monday 08:00 Trigger](screenshots/06_scenario02_schedule.png)
+![Monday 08:00 Trigger](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/screenshots/06_scenario_02_schedule.png)
 
 **Google Sheets Output:**
-![Export Result](screenshots/07_scenario02_google_sheets.png)
+![Export Result](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/screenshots/07_scenario_02_google_sheets.png)
 
 ---
 
