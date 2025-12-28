@@ -278,7 +278,7 @@ https://doi.org/10.24432/C5BW33
 **Transactions:** 541,909 raw → 539,392 cleaned  
 **Countries:** 38 (UK, France, Belgium, Switzerland, Germany, etc.)
 
-[Full Dataset Documentation →](File03_DATA/README.md)
+[Full Dataset Documentation →](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File03_data/README.md)
 
 ---
 
@@ -313,7 +313,7 @@ https://doi.org/10.24432/C5BW33
 **François Tilkin**  
 Data Analyst | Analytics & Automation
 
-**LinkedIn:** [linkedin.com/in/francois-tilkin](https://linkedin.com/in/francois-tilkin)  
+**LinkedIn:** [linkedin.com/in/francois-tilkin](https://www.linkedin.com/in/fran%C3%A7ois-tilkin-1667b138a/)  
 **GitHub:** [github.com/78381507](https://github.com/78381507)  
 **Email:** tilkinanalytics@gmail.com
 
