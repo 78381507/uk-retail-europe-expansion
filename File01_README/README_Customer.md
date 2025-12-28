@@ -107,7 +107,7 @@ Methodological notes, assumptions, and design decisions
 📂 **File08_Assets**  
 
 Final PowerPoint slides and visual assets  
-➡️ `File08_Assets/`
+➡️ ![Assets](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File08_Assets/presentation)
 
 ---
 
@@ -128,7 +128,7 @@ Retention-focused actions outperform short-term acquisition efforts.
 - Automatic anomaly detection (±15%)
 - Slack alert **only when action is required**
 
-➡️ See: `File06_Automation/Scenario_01_Daily_Revenue_Alert`
+➡️ ![Daily](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/sql/daily_revenue_alert.sql)
 
 ---
 
@@ -137,7 +137,7 @@ Retention-focused actions outperform short-term acquisition efforts.
 - Weekly export of top 50 customers by value
 - CRM-ready Google Sheets output with recommended actions
 
-➡️ See: `File06_Automation/Scenario_02_At_Risk_Export`
+➡️ ![Weekly](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/sql/weekly_at_risk_export.sql)
 
 ---
 
@@ -157,7 +157,7 @@ Built using **free or low-cost tools**, designed to scale.
 ## 📘 Full Documentation
 
 For full explanations, assumptions, and detailed methodology, see:  
-➡️ **`File01_README/README_FULL.md`**
+➡️ ![README Full](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File01_README/README_Full.md)
 
 ---
 
