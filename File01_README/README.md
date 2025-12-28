@@ -245,16 +245,16 @@ Complete definitions of all metrics used across dashboards, SQL views, and autom
 - Invalid record removal (negative prices, missing descriptions)
 
 **Dimensional Model:**
-- [dim_customers.sql](sql/02_data_models/dim_customers.sql)
-- [dim_geography.sql](sql/02_data_models/dim_geography.sql)
-- [dim_products.sql](sql/02_data_models/dim_products.sql)
-- [fact_orders.sql](sql/02_data_models/fact_orders.sql)
+- [dim_customers.sql](SQL/02_data_models/dim_customers.sql)
+- [dim_geography.sql](SQL/02_data_models/dim_geography.sql)
+- [dim_products.sql](SQL/02_data_models/dim_products.sql)
+- [fact_orders.sql](SQL/02_data_models/fact_orders.sql)
 
 **Business Metrics:**
-- [Revenue KPIs](sql/03_business_metrics/kpi_revenue.sql)
-- [Geographic KPIs](sql/03_business_metrics/kpi_geographic.sql)
-- [Retention KPIs](sql/03_business_metrics/kpi_retention_advanced.sql)
-- [RFM Segmentation](sql/03_business_metrics/kpi_rfm.sql)
+- [Revenue KPIs](SQL/03_business_metrics/kpi_revenue.sql)
+- [Geographic KPIs](SQL/03_business_metrics/kpi_geographic.sql)
+- [Retention KPIs](SQL/03_business_metrics/kpi_retention_advanced.sql)
+- [RFM Segmentation](SQL/03_business_metrics/kpi_rfm.sql)
 
 ---
 
