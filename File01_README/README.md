@@ -140,7 +140,7 @@ uk-retail-europe-expansion/
 - Clear seasonality pattern for inventory planning
 
 **Screenshot:**  
-![Executive Overview](https://github.com/78381507/uk-retail-europe-expansion/blob/main/assets/dashboard_screenshots/dashboard_1_executive_overview.png?raw=true](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File05_Looker/dashboard_1_executive_overview.png)
+![Executive Overview](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File05_Looker/dashboard_1_executive_overview.png)
 
 ---
 
