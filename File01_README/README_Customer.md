@@ -39,7 +39,7 @@ This project is organized into clearly separated, reusable components:
 ### 📌 Business Framing
 📂 **File02_BUSINESS_CASE**  
 Business context, hypotheses, key questions, and success metrics  
-➡️ `File02_BUSINESS_CASE/`
+➡️ !(https://github.com/78381507/uk-retail-europe-expansion/blob/main/File02_BUSINESS_CASE/Business_Case.md)
 
 ---
 
