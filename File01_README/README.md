@@ -240,7 +240,7 @@ Complete definitions of all metrics used across dashboards, SQL views, and autom
 ### **SQL Documentation**
 
 **Data Quality Layer:**
-- [Data validation queries](sql/01_data_quality/)
+- [Data validation queries](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File04_SQL/01_data_quality)
 - IsReturn, IsB2B flagging logic
 - Invalid record removal (negative prices, missing descriptions)
 
