@@ -183,7 +183,7 @@ uk-retail-europe-expansion/
 - Champions defined as R≥4, F≥4, M≥4
 
 **Screenshot:**  
-![Retention Analysis](https://github.com/78381507/uk-retail-europe-expansion/blob/main/assets/dashboard_screenshots/dashboard_3_retention_analysis.png?raw=true)
+![Retention Analysis](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File05_Looker/dashboard_3_retention_analysis.png)
 
 ---
 
