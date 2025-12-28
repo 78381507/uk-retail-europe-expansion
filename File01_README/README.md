@@ -11,7 +11,7 @@ The project covers:
 Built with **BigQuery, Looker Studio, and Make.com**, this portfolio demonstrates how analytics can move from **raw data to actionable business outcomes**.
 
 📌 **Start here (executive overview):**  
-➡️ `File01_README/README_Customer.md`(
+➡️ `File01_README/README_Customer.md`(https://github.com/78381507/uk-retail-europe-expansion/blob/main/File01_README/README_Customer.md)
 
 📘 **Full project documentation:**  
 ➡️ `File01_README/README_Full.md`
