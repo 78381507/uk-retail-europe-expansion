@@ -159,7 +159,7 @@ uk-retail-europe-expansion/
 - France represents volume opportunity (1,384 orders)
 
 **Screenshot:**  
-![Francophone Expansion](https://github.com/78381507/uk-retail-europe-expansion/blob/main/assets/dashboard_screenshots/dashboard_2_francophone_expansion.png?raw=true)
+![Francophone Expansion](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File05_Looker/dashboard_2_francophone_expansion.png)
 
 ---
 
