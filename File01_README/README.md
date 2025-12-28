@@ -233,7 +233,7 @@ Complete definitions of all metrics used across dashboards, SQL views, and autom
 - RFM metrics (Recency, Frequency, Monetary + Segment definitions)
 - Anomaly detection metrics (7-day avg, percentage change)
 
-[Read KPI Dictionary →](File07_Docs/kpi_dictionary.md)
+[Read KPI Dictionary →](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File07_Docs/kpi_dictionary.md)
 
 ---
 
