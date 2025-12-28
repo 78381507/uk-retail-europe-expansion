@@ -219,7 +219,7 @@ uk-retail-europe-expansion/
 ### **Business Case**
 Comprehensive business context, ROI analysis, stakeholder requirements, and project timeline.
 
-[Read Business Case →](File02_BUSINESS_CASE/Business_Case.md)
+[Read Business Case →](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File02_BUSINESS_CASE/Business_Case.md)
 
 ---
 
