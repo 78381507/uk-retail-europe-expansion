@@ -36,61 +36,76 @@ This ensures analytics is not limited to reporting, but directly supports **busi
 
 This project is organized into clearly separated, reusable components:
 
+---
+
 ### 📌 Business Framing
+
 📂 **File02_BUSINESS_CASE**  
+
 Business context, hypotheses, key questions, and success metrics  
 ➡️ ![Business Case](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File02_BUSINESS_CASE/Business_Case.md)
 
 ---
 
 ### 📌 Data & Preparation
+
 📂 **File03_data**  
+
 Dataset description, data quality checks, and preparation notes  
 ➡️ ![Data](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File03_data)
 
 ---
 
 ### 📌 SQL Analytics & Modeling
+
 📂 **File04_SQL**  
+
 All SQL logic used for:
 - Revenue analysis  
 - Retention & RFM segmentation  
 - Automation logic (alerts & exports)  
-
-➡️ `File04_SQL/`
+➡️ ![SQL](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File04_SQL)
 
 ---
 
 ### 📌 Business Intelligence (Dashboards)
+
 📂 **File05_Looker**  
+
 Three Looker Studio dashboards:
 - Executive Revenue Overview  
 - European Market Expansion  
 - Customer Retention & Lifecycle  
 
-➡️ `File05_Looker/`
+➡️ ![Looker](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File05_Looker)
 
 ---
 
 ### 📌 Automation & Operations
+
 📂 **File06_Automation**  
+
 Make.com workflows connecting analytics to business action:
 - Daily revenue anomaly alert (BigQuery → Slack)
 - Weekly “At Risk” customer export (BigQuery → Google Sheets)
 
-➡️ `File06_Automation/`
+➡️ ![Automation](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File06_Automation)
 
 ---
 
 ### 📌 Supporting Documentation
+
 📂 **File07_Docs**  
+
 Methodological notes, assumptions, and design decisions  
-➡️ `File07_Docs/`
+➡️ ![Docs](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File07_Docs)
 
 ---
 
 ### 📌 Executive Presentation
+
 📂 **File08_Assets**  
+
 Final PowerPoint slides and visual assets  
 ➡️ `File08_Assets/`
 
