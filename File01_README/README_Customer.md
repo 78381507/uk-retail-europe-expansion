@@ -36,33 +36,33 @@ This ensures analytics is not limited to reporting, but **directly supports busi
 
 This project is organized into clearly separated, reusable components:
 
-### 📂 [File02_BUSINESS_CASE](File02_BUSINESS_CASE/)
+### 📂 [File02_BUSINESS_CASE](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File02_BUSINESS_CASE/Business_Case.md)
 Business context, hypotheses, key questions, and success metrics
 
-### 📂 [File03_data](File03_data/)
+### 📂 [File03_data](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File03_data)
 Dataset description, data quality checks, and preparation notes
 
-### 📂 [File04_SQL](File04_SQL/)
+### 📂 [File04_SQL](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File04_SQL)
 All SQL logic used for:
 * Revenue analysis
 * Retention & RFM segmentation
 * Automation logic (alerts & exports)
 
-### 📂 [File05_Looker](File05_Looker/)
+### 📂 [File05_Looker](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File05_Looker)
 Three Looker Studio dashboards:
 * Executive Revenue Overview
 * European Market Expansion
 * Customer Retention & Lifecycle
 
-### 📂 [File06_Automation](File06_Automation/)
+### 📂 [File06_Automation](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File06_Automation)
 Make.com workflows connecting analytics to business action:
 * Daily revenue anomaly alert (BigQuery → Slack)
 * Weekly "At Risk" customer export (BigQuery → Google Sheets)
 
-### 📂 [File07_Docs](File07_Docs/)
+### 📂 [File07_Docs](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File07_Docs)
 Methodological notes, assumptions, and design decisions
 
-### 📂 [File08_Assets](File08_Assets/)
+### 📂 [File08_Assets](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File08_Assets/presentation)
 PowerPoint presentation and visual assets
 
 ---
@@ -84,7 +84,7 @@ PowerPoint presentation and visual assets
 * Automatic anomaly detection (±15%)
 * Slack alert only when action is required
 
-**[View automation details →](File06_Automation/README.md)**
+[View automation details →](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/sql/daily_revenue_alert.sql)
 
 ---
 
@@ -93,7 +93,7 @@ PowerPoint presentation and visual assets
 * Weekly export of top 50 customers by value
 * CRM-ready Google Sheets output with recommended actions
 
-**[View automation details →](File06_Automation/README.md)**
+[View automation details →](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/sql/weekly_at_risk_export.sql)
 
 ---
 
@@ -113,7 +113,7 @@ Built using free or low-cost tools, designed to scale.
 ## 📘 Full Documentation
 
 For full explanations, SQL queries, assumptions, and detailed methodology:  
-**[README_FULL.md →](README_FULL.md)**
+[README_FULL.md →](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File01_README/README_Full.md)
 
 ---
 
@@ -127,187 +127,3 @@ Data Analyst | Analytics & Automation
 **Email:** tilkinanalytics@gmail.com
 
 
-
-
-
-
-
-
-
-
-
-
-
-# UK Retail Europe — Executive Project Overview
-
-This repository presents an **end-to-end data analytics project** applied to a UK retail e-commerce dataset, with a strong focus on **business impact, decision support, and automation**.
-
-The objective is to demonstrate how analytics can evolve from **raw data exploration** to **operational and automated business actions**.
-
----
-
-## 🎯 Business Context
-
-The business faces three major challenges:
-
-- **High customer churn (~63% monthly)** with limited retention visibility  
-- **Strong dependency on the UK market (~84% of revenue)**  
-- **Under-exploited European (francophone) markets** despite high customer value  
-
-While data exists, decisions were mostly **reactive and manual**.
-
----
-
-## 🧠 Project Approach
-
-The project follows a clear analytics lifecycle:
-
-**Data → Insight → Action**
-
-1. Centralize and model transactional data  
-2. Build decision-oriented dashboards  
-3. Translate insights into automated operational workflows  
-
-This ensures analytics is not limited to reporting, but directly supports **business execution**.
-
----
-
-## 🏗️ Project Structure & Navigation
-
-This project is organized into clearly separated, reusable components:
-
----
-
-### 📌 Business Framing
-
-📂 **File02_BUSINESS_CASE**  
-
-Business context, hypotheses, key questions, and success metrics  
-➡️ ![Business Case](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File02_BUSINESS_CASE/Business_Case.md)
-
----
-
-### 📌 Data & Preparation
-
-📂 **File03_data**  
-
-Dataset description, data quality checks, and preparation notes  
-➡️ ![Data](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File03_data)
-
----
-
-### 📌 SQL Analytics & Modeling
-
-📂 **File04_SQL**  
-
-All SQL logic used for:
-- Revenue analysis  
-- Retention & RFM segmentation  
-- Automation logic (alerts & exports)  
-➡️ ![SQL](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File04_SQL)
-
----
-
-### 📌 Business Intelligence (Dashboards)
-
-📂 **File05_Looker**  
-
-Three Looker Studio dashboards:
-- Executive Revenue Overview  
-- European Market Expansion  
-- Customer Retention & Lifecycle  
-
-➡️ ![Looker](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File05_Looker)
-
----
-
-### 📌 Automation & Operations
-
-📂 **File06_Automation**  
-
-Make.com workflows connecting analytics to business action:
-- Daily revenue anomaly alert (BigQuery → Slack)
-- Weekly “At Risk” customer export (BigQuery → Google Sheets)
-
-➡️ ![Automation](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File06_Automation)
-
----
-
-### 📌 Supporting Documentation
-
-📂 **File07_Docs**  
-
-Methodological notes, assumptions, and design decisions  
-➡️ ![Docs](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File07_Docs)
-
----
-
-### 📌 Executive Presentation
-
-📂 **File08_Assets**  
-
-Final PowerPoint slides and visual assets  
-➡️ ![Assets](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File08_Assets/presentation)
-
----
-
-## 📊 Key Business Insights (Summary)
-
-- **£9.77M total revenue**, with strong seasonality and Q4 peak  
-- **Francophone markets represent ~3.1% of revenue** but show **high AOV potential**  
-- **1,280 “At Risk” customers identified**, representing **£434K recoverable revenue**  
-
-Retention-focused actions outperform short-term acquisition efforts.
-
----
-
-## 🤖 Automation — From Insight to Action
-
-### Scenario 1 — Daily Revenue Monitoring
-- Daily revenue comparison vs 7-day average
-- Automatic anomaly detection (±15%)
-- Slack alert **only when action is required**
-
-➡️ ![Daily](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/sql/daily_revenue_alert.sql)
-
----
-
-### Scenario 2 — Weekly Retention Activation
-- RFM-based identification of “At Risk” customers
-- Weekly export of top 50 customers by value
-- CRM-ready Google Sheets output with recommended actions
-
-➡️ ![Weekly](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/sql/weekly_at_risk_export.sql)
-
----
-
-## 🧰 Technology Stack
-
-- **Google BigQuery** — Data warehouse & SQL analytics  
-- **Looker Studio** — Business dashboards  
-- **Make.com** — Workflow automation  
-- **Slack** — Operational alerting  
-- **Google Sheets** — CRM-ready exports  
-- **SQL | Git | Data Modeling**
-
-Built using **free or low-cost tools**, designed to scale.
-
----
-
-## 📘 Full Documentation
-
-For full explanations, assumptions, and detailed methodology, see:  
-➡️ ![README Full](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File01_README/README_Full.md)
-
----
-
-## 👤 Contact
-
-**François Tilkin**  
-Data Analyst | Analytics & Automation
-
-**LinkedIn:** [linkedin.com/in/francois-tilkin](https://www.linkedin.com/in/fran%C3%A7ois-tilkin-1667b138a/)  
-**GitHub:** [github.com/78381507](https://github.com/78381507)  
-**Email:** tilkinanalytics@gmail.com
-
----
