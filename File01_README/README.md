@@ -210,7 +210,7 @@ uk-retail-europe-expansion/
 - Frequent buyers (≥3 orders) → Free shipping offer
 - Others → Welcome bundle (top Champion product)
 
-**Documentation:** [automation/README.md](automation/README.md)
+**Documentation:** [automation/README.md](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File06_Automation/README)
 
 ---
 
