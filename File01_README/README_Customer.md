@@ -146,10 +146,13 @@ For full explanations, assumptions, and detailed methodology, see:
 
 ---
 
-## 👤 Author
+## 👤 Contact
 
 **François Tilkin**  
-Data Analyst (Business Analytics & Automation)
+Data Analyst | Analytics & Automation
 
-🔗 LinkedIn: (https://www.linkedin.com/in/francois-tilkin-1667b138a/)  
-💻 GitHub: (https://github.com/78381507)
+**LinkedIn:** [linkedin.com/in/francois-tilkin](https://www.linkedin.com/in/fran%C3%A7ois-tilkin-1667b138a/)  
+**GitHub:** [github.com/78381507](https://github.com/78381507)  
+**Email:** tilkinanalytics@gmail.com
+
+---
