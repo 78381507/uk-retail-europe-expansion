@@ -248,7 +248,7 @@ Complete definitions of all metrics used across dashboards, SQL views, and autom
 - [dim_customers.sql](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/02_data_models/dim_customers.sql)
 - [dim_geography.sql](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/02_data_models/dim_geography.sql)
 - [dim_products.sql](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/02_data_models/dim_products.sql)
-- [fact_orders.sql](SQL/02_data_models/fact_orders.sql)
+- [fact_orders.sql](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/02_data_models/fact_orders.sql)
 
 **Business Metrics:**
 - [Revenue KPIs](SQL/03_business_metrics/kpi_revenue.sql)
