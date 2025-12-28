@@ -46,7 +46,7 @@ Business context, hypotheses, key questions, and success metrics
 ### 📌 Data & Preparation
 📂 **File03_data**  
 Dataset description, data quality checks, and preparation notes  
-➡️ `File03_data/`
+➡️ ![Data](https://github.com/78381507/uk-retail-europe-expansion/tree/main/File03_data)
 
 ---
 
