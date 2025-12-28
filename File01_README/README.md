@@ -260,28 +260,6 @@ Complete definitions of all metrics used across dashboards, SQL views, and autom
 
 ---
 
-## 🚀 Quick Start
-
-### **Option 1: Explore Dashboards**
-1. View dashboard screenshots in [looker/dashboards/](looker/dashboards/)
-2. Read insights in [Dashboard Documentation](looker/dashboards/README.md)
-
-### **Option 2: Review SQL Logic**
-1. Start with [KPI Dictionary](File07_Docs/kpi_dictionary.md) for metric definitions
-2. Explore dimensional model in [sql/02_data_models/](sql/02_data_models/)
-3. Review business metrics in [sql/03_business_metrics/](sql/03_business_metrics/)
-
-### **Option 3: Understand Automation**
-1. Read [Automation README](automation/README.md)
-2. View workflow screenshots in [automation/screenshots/](automation/screenshots/)
-3. Review SQL queries in [automation/sql/](automation/sql/)
-
-### **Option 4: Business Context**
-1. Read [Business Case](File02_BUSINESS_CASE/Business_Case.md)
-2. Review [Dataset Documentation](File03_DATA/README.md)
-
----
-
 ## 📊 Data Source
 
 **Dataset:** Online Retail (UCI Machine Learning Repository)  
