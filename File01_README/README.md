@@ -14,7 +14,7 @@ Built with **BigQuery, Looker Studio, and Make.com**, this portfolio demonstrate
 ➡️ ![File01_README/README_Customer.md](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File01_README/README_Customer.md)
 
 📘 **Full project documentation:**  
-➡️ ![File01_README/README_Full.md](
+➡️ ![File01_README/README_Full.md](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File01_README/README_Full.md)
 
 ---
 
