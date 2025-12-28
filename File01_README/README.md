@@ -256,7 +256,7 @@ Complete definitions of all metrics used across dashboards, SQL views, and autom
 - [Retention KPIs](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/03_business_metrics/kpi_retention.sql)
 - [Retention Advanced KPIs](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/03_business_metrics/kpi_retention_advanced.sql)
 - [Revenue KPIs](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/03_business_metrics/kpi_revenue.sql)
-- [RFM Segmentation](SQL/03_business_metrics/kpi_rfm.sql)
+- [RFM Segmentation](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File04_SQL/03_business_metrics/kpi_rfm.sql)
 
 ---
 
