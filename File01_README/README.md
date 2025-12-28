@@ -1,0 +1,23 @@
+# UK Retail Europe — Data Analytics Portfolio
+
+End-to-end data analytics project applied to a UK retail e-commerce dataset, focused on **business decision-making and automation**, not just reporting.
+
+The project covers:
+- Revenue performance monitoring
+- European market expansion analysis
+- Customer retention & RFM segmentation
+- Automated operational workflows (alerts & CRM exports)
+
+Built with **BigQuery, Looker Studio, and Make.com**, this portfolio demonstrates how analytics can move from **raw data to actionable business outcomes**.
+
+📌 **Start here (executive overview):**  
+➡️ `File01_README/README_FAST.md`
+
+📘 **Full project documentation:**  
+➡️ `File01_README/README_FULL.md`
+
+---
+
+**François Tilkin** — Data Analyst  
+🔗 LinkedIn: https://www.linkedin.com/in/francois-tilkin-1667b138a  
+💻 GitHub: https://github.com/78381507
