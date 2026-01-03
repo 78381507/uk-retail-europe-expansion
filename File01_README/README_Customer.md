@@ -84,7 +84,7 @@ PowerPoint presentation and visual assets
 * Automatic anomaly detection (±15%)
 * Slack alert only when action is required
 
-[View automation details](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/sql/daily_revenue_alert.sql)
+[View details](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/sql/daily_revenue_alert.sql)
 
 ---
 
@@ -93,7 +93,7 @@ PowerPoint presentation and visual assets
 * Weekly export of top 50 customers by value
 * CRM-ready Google Sheets output with recommended actions
 
-[View automation details](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/sql/weekly_at_risk_export.sql)
+[View details](https://github.com/78381507/uk-retail-europe-expansion/blob/main/File06_Automation/sql/weekly_at_risk_export.sql)
 
 ---
 
