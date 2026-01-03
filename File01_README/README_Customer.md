@@ -122,7 +122,7 @@ For full explanations, SQL queries, assumptions, and detailed methodology:
 **François Tilkin**  
 Data Analyst | Analytics & Automation
 
-**LinkedIn:** [francois-tilkin](https://linkedin.com/in/francois-tilkin-1667b138a)  
+**LinkedIn:** [francois-tilkin](https://www.linkedin.com/in/fran%C3%A7ois-tilkin-1667b138a/)  
 **GitHub:** [78381507](https://github.com/78381507)  
 **Email:** tilkinanalytics@gmail.com
 
