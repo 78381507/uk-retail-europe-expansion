@@ -151,7 +151,7 @@
 - **Output:** Slack message to #operations channel
 - **Benefit:** Rapid response to revenue anomalies (same-day vs 2-day delay)
 
-**Automation 3: Weekly At-Risk Export (Google Sheets)**
+**Automation 2: Weekly At-Risk Export (Google Sheets)**
 - **Trigger:** Every Monday 08:00 UTC
 - **Logic:** Export top 50 At-Risk customers (low recency, high historical frequency)
 - **Output:** Google Sheets with CustomerID, Country, Spend, Recommended Action
