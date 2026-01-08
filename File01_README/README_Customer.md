@@ -70,7 +70,7 @@ PowerPoint presentation and visual assets
 ## 📊 Key Business Insights (Summary)
 
 * **£9.77M total revenue**, with strong seasonality and Q4 peak
-* **Francophone markets represent ~3.1%** of revenue but show high AOV potential (Switzerland: £1,106)
+* **Francophone markets represent ~3.14%** of revenue but show high AOV potential (Switzerland: £1,106)
 * **1,280 "At Risk" customers** identified, representing **£434K recoverable revenue**
 
 **Key Takeaway:** Retention-focused actions outperform short-term acquisition efforts.
