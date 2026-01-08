@@ -69,7 +69,8 @@
 
 **Opportunity Indicators:**
 - **Switzerland AOV £1,106** (2x France, 2.6x UK) → Premium market potential
-- **Belgium Revenue/Customer £1,647** (highest) → Strong customer quality
+- **Switzerland Revenue/Customer £2,688** (highest) → Premium customer quality
+- **Belgium Revenue/Customer £1,647** → Strong mid-tier engagement
 - Francophone markets show same Q4 seasonality → Product-market fit exists
 
 **Barriers:**
