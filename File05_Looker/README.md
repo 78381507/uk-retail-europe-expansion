@@ -44,7 +44,8 @@
 
 **Key Insights**:
 - **Switzerland premium market**: 2x higher AOV (£1,106) vs France (£537) → Opportunity for premium product strategy
-- **Belgium lifecycle excellence**: Highest revenue/customer (£1,647) → Model for France customer retention
+- **Switzerland lifecycle excellence**: Highest revenue/customer (£2,688) → Premium + loyalty model
+- **Belgium mid-tier engagement**: Revenue/customer (£1,647) → Strong frequency model
 - **Product localization needed**: France prefers décor items (RABBIT LIGHT £7.3K), Switzerland buys premium packaging (SNACK BOXES £1.3K)
 - **Seasonal consistency**: All 3 countries show Q4 peak, aligned with UK pattern
 
