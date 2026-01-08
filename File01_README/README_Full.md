@@ -152,12 +152,12 @@ uk-retail-europe-expansion/
 **Key Metrics:**
 - Francophone Revenue Share: 3.14%
 - France Orders: 1,384
-- Switzerland Revenue/Customer: £2,403
+- Switzerland Revenue/Customer: £2,688
 - Switzerland AOV: £1,106
 
 **Key Insights:**
 - Switzerland AOV 2x higher than France → Premium product strategy
-- Switzerland revenue/customer (£2,403) + de 60% higher than Belgium → Premium market
+- Switzerland revenue/customer (£2,688) → 63% higher than Belgium → Premium market
 - Belgium: Strong frequency (£1,647/customer) → Mid-tier engagement 
 - France represents volume opportunity (1,384 orders)
 
